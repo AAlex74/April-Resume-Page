@@ -1,0 +1,38 @@
+.thumbnail:hover {
+    position:relative;
+    top:-25px;
+    left:-35px;
+    width:96px;
+    height:auto;
+    display:block;
+    z-index:999;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gainsboro;
+    color:black;
+    text-align: center;
+  }
+
+.my-4 {
+      border: 1px solid orangered;
+      width:900px;
+      display: flex;
+      justify-content: space-around;
+  }
+/* a {
+    padding: 20px 0;
+    display: flex;
+    justify-content: center; 
+  } */
+
+.my-5 {
+    border: 1px solid orangered;
+    width:900px;
+    display: flex;
+    justify-content: space-around;
+}
